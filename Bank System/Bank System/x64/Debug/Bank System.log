@@ -1,0 +1,6 @@
+﻿  Bank System.cpp
+C:\csdiploma\visual studio\Bank System\Bank System\Bank System.cpp(1413): warning C4715: 'Screens::loginAs': not all control paths return a value
+C:\csdiploma\visual studio\Bank System\Bank System\Bank System.cpp(1307): warning C4715: 'AdminManager::AdminOptions': not all control paths return a value
+C:\csdiploma\visual studio\Bank System\Bank System\Bank System.cpp(722): warning C4715: 'ClientManger::clientOptions': not all control paths return a value
+C:\csdiploma\visual studio\Bank System\Bank System\Bank System.cpp(1002): warning C4715: 'EmployeeManager::employeeOptions': not all control paths return a value
+  Bank System.vcxproj -> C:\csdiploma\visual studio\Bank System\x64\Debug\Bank System.exe
